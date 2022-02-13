@@ -1,8 +1,8 @@
 AlphaGo
-Aliens
 The Bad Sleep Well
 Baahubali
 Battles Without Honor and Humanity
+Beetlejuice
 Bonnie & Clyde (1967)
 Chinatown
 Chungking Express
@@ -23,6 +23,7 @@ In Order of Disappearance
 Indiana Jones and the Last Crusade
 Into the Spider-verse
 It's Such A Beautiful Day
+Jodorowsky's Dune
 Legend of Drunken Master
 Mad Max Fury Road
 Master and Commander
@@ -40,7 +41,6 @@ Some Like it Hot
 Sorry to Bother you
 Star Wars: A New Hope
 The Sting
-Tinker Tailor Soldier Spy
 Suspiria (1977)
 Tampopo
 The Thing (1982)
