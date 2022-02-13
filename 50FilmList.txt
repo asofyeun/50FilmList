@@ -1,3 +1,4 @@
+48 hours
 AlphaGo
 The Bad Sleep Well
 Baahubali
@@ -12,7 +13,6 @@ Dolemite is my Name
 Drunktown's Finest
 Encino Man
 The Exorcist
-Get Out
 The Godfather
 Groundhog Day
 Hard Boiled
@@ -37,8 +37,8 @@ Ran
 Road to Perdition
 Ronin
 Scott Pilgrim vs The World
-Singin' in the Rain
 Silver Linings Playbook
+Singing in the Rain
 Some Like it Hot
 Sorry to Bother you
 Star Wars: A New Hope
